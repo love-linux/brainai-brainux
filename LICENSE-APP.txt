@@ -1,0 +1,18 @@
+BrainAI for Brainux アプリ本体 利用条件
+Copyright (c) 2026 love-linux
+https://github.com/love-linux/brainai-brainux
+
+対象: brx_chat、brainai、インストーラーのスクリプト。モデルと辞書は CC BY-SA 4.0 です。
+
+1. 個人・商用を問わず、無料で使えます。
+2. 改変していないものは再配布できます。
+3. 再配布するときは、作者名「love-linux」と上の GitHub のリンクを明記し、
+   NOTICE.txt とライセンスのファイルを一緒に配布してください。
+4. アプリ本体を改変したものを配布するには、love-linux の許可が必要です。
+5. 本ソフトウェアは現状のまま提供され、いかなる保証もありません。
+   使用によって生じた損害について、作者は責任を負いません。
+
+English summary: free to use; unmodified copies may be redistributed if you credit
+"love-linux", include the GitHub link above, and keep NOTICE.txt and the license files.
+Distributing modified versions of the app requires permission from love-linux.
+Provided "as is", without warranty of any kind.

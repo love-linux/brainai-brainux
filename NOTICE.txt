@@ -1,0 +1,22 @@
+BrainAI for Brainux
+作者 / Author: love-linux
+配布元 / Source of distribution: https://github.com/love-linux/brainai-brainux
+
+再配布するときは、作者名「love-linux」と上の GitHub のリンクを必ず明記し、
+このファイルとライセンスのファイルを一緒に配布してください。
+
+When redistributing, you must credit "love-linux", include the GitHub link above,
+and keep this file and the license files with the distribution.
+
+表示の例 / Example credit:
+  BrainAI for Brainux by love-linux
+  https://github.com/love-linux/brainai-brainux
+
+ライセンス / Licenses
+- アプリ本体 (brx_chat, brainai, インストーラー): LICENSE-APP.txt
+- モデル (v2, coderv1): CC BY-SA 4.0 / 作者 love-linux
+- 辞書 (kb.tsv): CC BY-SA 4.0 / 日本語版 Wikipedia の見出しと本文冒頭をもとに作成
+  https://ja.wikipedia.org/
+  CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/deed.ja
+
+実行時に Brainux 側の glibc、uim、Anthy、fbterm を利用します。これらは同梱していません。

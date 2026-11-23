@@ -15,3 +15,14 @@ SHARP Brain 上の Linux（Brainux）で動く、オフラインの日本語対�
 - **2 つのターミナルに対応**: 起動直後の全画面コンソールでも、デスクトップの LXTerminal でも動きます。
 - **CLI 画面**: ロゴ、入力枠、モデル名、返答ごとの速度を表示します。
 - **コマンド**: `/help`、`/model`、`/clear`、`/exit` が使えます。
+
+## 作者とライセンス
+
+作者: **love-linux**
+配布元: https://github.com/love-linux/brainai-brainux
+
+再配布するときは、作者名「love-linux」とこのリポジトリのリンクを必ず明記し、`NOTICE.txt` とライセンスのファイルを一緒に配布してください。
+
+- **アプリ本体**: [LICENSE-APP.txt](LICENSE-APP.txt)。無料で使え、改変していないものは再配布できます。改変版の配布には love-linux の許可が必要です。
+- **モデル (v2、coderv1)**: [CC BY-SA 4.0](LICENSE)
+- **辞書 (kb.tsv)**: [CC BY-SA 4.0](LICENSE)。[日本語版 Wikipedia](https://ja.wikipedia.org/) の見出しと本文冒頭をもとに作成しています。
