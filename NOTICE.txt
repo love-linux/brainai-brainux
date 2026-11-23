@@ -14,7 +14,7 @@ and keep this file and the license files with the distribution.
 
 ライセンス / Licenses
 - アプリ本体 (brx_chat, brainai, インストーラー): LICENSE-APP.txt
-- モデル (v2, coderv1): CC BY-SA 4.0 / 作者 love-linux
+- モデル (v2, coderv1, v2flash): CC BY-SA 4.0 / 作者 love-linux
 - 辞書 (kb.tsv): CC BY-SA 4.0 / 日本語版 Wikipedia の見出しと本文冒頭をもとに作成
   https://ja.wikipedia.org/
   CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/deed.ja
