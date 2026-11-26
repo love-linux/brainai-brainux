@@ -88,3 +88,7 @@ sudo sh uninstall.sh
 - **アプリ本体**: [LICENSE-APP.txt](LICENSE-APP.txt)。無料で使え、改変していないものは再配布できます。改変版の配布には love-linux の許可が必要です。
 - **モデル (v2、coderv1、v2flash)**: [CC BY-SA 4.0](LICENSE)
 - **辞書 (kb.tsv)**: [CC BY-SA 4.0](LICENSE)。[日本語版 Wikipedia](https://ja.wikipedia.org/) の見出しと本文冒頭をもとに作成しています。
+
+## Source policy
+
+The models (weights and dictionary) are open under CC BY-SA 4.0. The brain-ai application itself is closed-source and distributed as binaries only.
